@@ -1,8 +1,6 @@
 package com.sau.tech;
 
 import java.util.Scanner;
-import java.lang.String;
-import java.lang.System;
 
 public class MyClass03 {
     public static void main(String[] args) {
